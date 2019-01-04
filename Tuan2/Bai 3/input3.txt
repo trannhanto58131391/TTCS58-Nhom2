@@ -1,0 +1,6 @@
+5 
+57114 NguyenQuangHai 8 GiamDoc 10 12 1995
+58113 BuiThienDung 6 ThuKy 8 1 2000
+58115 NguyenAnhDuc 4 NhanVien 5 6 2001
+59113 NguyenVanHau 3 NhanVien 5 8 1999
+59116 PhanVanDuc 3 NhanVien 5 4 1999
