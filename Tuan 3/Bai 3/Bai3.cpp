@@ -48,7 +48,6 @@ void xuly::docfilekh() //doc danh sach khac hang tu file customer
 		i++;
 	}
 	dskh.pop_back();
-	rewind(f);
 	fclose(f);
 }
 
@@ -64,7 +63,6 @@ void xuly::docfilegd() //doc danh sach giao dich tu file trans
 		i++;
 	}
 	dstrans.pop_back();
-	rewind(g);
 	fclose(g);
 }
 
