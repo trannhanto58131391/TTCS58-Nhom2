@@ -34,7 +34,7 @@ int main()
 	do{
 		cout<<"\nNhap n: ";//nhap vao so n tu ban phim, n be hon m
 		cin>>n;
-	}while(n>m);
+	}while(n>=m);
 	cout<<"------------------------------------------------------------"<<endl;
 	for(int i = 1; i <= m; i++)//in ra cac so tu 1 den m
 	{
